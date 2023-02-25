@@ -3,8 +3,8 @@ Após iniciarmos a [maquina virtual](https://github.com/gaamarchi/Windows_Server
 
 <p float="left">
   <img src="linguagem.jpg" width="600" height="500" style="margin-right: 10px;"></br>
-  selecione o layout do seu keybord e clique em next 
-  clicamos em install e esperamos  
+  selecione o layout do seu keybord e clique em next  
+  clicamos em install e esperamos    
   vamos para a seguinte tela  
 </p>
 <img src="versoes_windows.jpg" width="600" height="500">    
