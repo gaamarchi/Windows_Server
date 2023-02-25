@@ -2,8 +2,8 @@
 notas da aula de servidor windows
  
 ## Configurações iniciais  
-[crinado vm](https://github.com/gaamarchi/Windows_Server/blob/main/baixando_servidor/criando_vm.md)  
-[instalando o servidor](https://github.com/gaamarchi/Windows_Server/blob/main/baixando_servidor/baixando_servidor.md)
+[Crinado vm](https://github.com/gaamarchi/Windows_Server/blob/main/baixando_servidor/criando_vm.md)  
+[Instalando o servidor](https://github.com/gaamarchi/Windows_Server/blob/main/baixando_servidor/baixando_servidor.md)
 
 
 ## Shadow copy & Backup  
