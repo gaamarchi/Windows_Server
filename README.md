@@ -1,5 +1,5 @@
 # Windows_Server
-notas da aula de servidor windows
+- Como usar, para usar esse repositório basta escolher qual conteudo deseja acessar abaixo e clicar nele, não é necessário navegar pelas pastas do repositório
  
 ## Configurações iniciais  
 [Crinado vm](https://github.com/gaamarchi/Windows_Server/blob/main/baixando_servidor/criando_vm.md)  
