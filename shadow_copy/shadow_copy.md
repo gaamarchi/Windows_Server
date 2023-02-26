@@ -11,7 +11,7 @@ clicando com o botão direito nele
 achamos a opção "configure shadow copies", clicando nela  
 ![imagem_2023-02-26_131925302](https://user-images.githubusercontent.com/101679723/221422667-a41decda-4f4d-45fe-b5ee-22a9249f337c.png)
 selecionado o disco c, clique em enable aceite  
-- nota podemos fazer o shadow copy do disco c usando um outro hd mas por ser um backoup de arquivo simples optei por usar o mesmo disco, caso queira adicionar outr disco [clique aqui]()  
+- nota podemos fazer o shadow copy do disco c usando um outro hd mas por ser um backoup de arquivo simples optei por usar o mesmo disco, caso queira adicionar outr disco [clique aqui](https://github.com/gaamarchi/Windows_Server/blob/main/shadow_copy/adicionando_disco.md)  
 clicando em settings  
 ![imagem_2023-02-26_132241981](https://user-images.githubusercontent.com/101679723/221422860-6f5080b4-25f9-44eb-a50b-8834a1e580b9.png)
 maximum size vamos deixar em "no limits", clicando em schedule  
